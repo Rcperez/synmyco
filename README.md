@@ -7,7 +7,7 @@
 
 **Results** I was not able to significantly improve the assembly in my first pass. Using Flye and Pilon with approximately 8x long-reads and the original Illumina short-reads produced by JGI that were available from the SRA as of 02/2021, I was able to produce a draft *de novo* assembly with a Busco correctness score of 94.1%.
 
-#**Introduction**
+# **Introduction**
 
 **Approach**
 
