@@ -1,4 +1,4 @@
-# Using long-reads to improve the genome assembly for *Ganoderma lucidum* 10597-SS1
+# Using nanopore long-reads to improve the genome assembly for *Ganoderma lucidum* 10597-SS1
 **What:** This a repository of a notebook and reports for my *Ganoderma lucidum* 10597-SS1 genome assembly and annotation project. 
 
 **Why:** I have a hypothesis that long-read data can improve the contiguity of the current MycoCosm [genome assembly](https://mycocosm.jgi.doe.gov/Gansp1/Gansp1.home.html) for *Ganoderma lucidum* 10597-SS1 and I wish to practice my bioinformatics skills.
