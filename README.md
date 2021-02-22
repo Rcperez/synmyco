@@ -10,11 +10,12 @@
 #**Introduction**
 
 **Approach**
+
 ![alt text](/path/img.jpg "Title")
     
 #**Results**
 
-#**Future Directions***
+#**Future Directions**
 
 #**Methods**
 
